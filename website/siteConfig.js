@@ -14,8 +14,8 @@ const users = [
     caption: 'User1',
     // You will need to prepend the image path with your baseUrl
     // if it is not '/', like: '/test-site/img/image.jpg'.
-    image: '/img/undraw_open_source.svg',
-    infoLink: 'https://www.facebook.com',
+    image: '/tandom/img/undraw_open_source.svg',
+    infoLink: 'http://tandom.tv',
     pinned: true,
   },
 ];
@@ -24,13 +24,13 @@ const siteConfig = {
   title: 'Tandom TV', // Title for your website.
   tagline: 'THE PLATFORM THAT POWERS LIVE CONTENT INTERACTIONS ON TV.',
   url: 'https://tandomtv.github.io', // Your website URL
-  baseUrl: '/tandomtv.github.io/', // Base URL for your project */
+  baseUrl: '/tandom/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
 
   // Used for publishing and more
-  projectName: 'tandomtv.github.io',
+  projectName: 'tandom',
   organizationName: 'tandomtv',
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
