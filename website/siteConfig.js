@@ -21,7 +21,7 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'Tandom TV', // Title for your website.
+  title: '', // Title for your website.
   tagline: 'THE PLATFORM THAT POWERS LIVE CONTENT INTERACTIONS ON TV.',
   url: 'https://tandomtv.github.io', // Your website URL
   baseUrl: '/tandom/', // Base URL for your project */
@@ -39,7 +39,7 @@ const siteConfig = {
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
     {doc: 'doc1', label: 'Docs'},
-    {doc: 'doc4', label: 'API'},
+//    {doc: 'doc4', label: 'API'},
     {page: 'help', label: 'Help'},
     {blog: true, label: 'Blog'},
   ],
@@ -48,14 +48,14 @@ const siteConfig = {
   users,
 
   /* path to images for header/footer */
-  headerIcon: 'img/favicon.ico',
+  headerIcon: 'img/tandom_white.png',
   footerIcon: 'img/favicon.ico',
   favicon: 'img/favicon.ico',
 
   /* Colors for website */
   colors: {
-    primaryColor: '#86484b',
-    secondaryColor: '#5d3234',
+    primaryColor: '#172b4d',
+    secondaryColor: '#5e72e4',
   },
 
   /* Custom fonts for website */
@@ -73,7 +73,7 @@ const siteConfig = {
   */
 
   // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
-  copyright: `Copyright © ${new Date().getFullYear()} Your Name or Your Company Name`,
+  copyright: `Copyright © ${new Date().getFullYear()} Quube Inc`,
 
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks.
