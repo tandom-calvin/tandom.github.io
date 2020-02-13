@@ -22,7 +22,7 @@ const users = [
 
 const siteConfig = {
   title: '', // Title for your website.
-  tagline: 'THE PLATFORM THAT POWERS LIVE CONTENT INTERACTIONS ON TV.',
+  tagline: 'THE FRAMEWORK THAT POWERS LIVE CONTENT INTERACTIONS ON TV.',
   url: 'https://tandomtv.github.io', // Your website URL
   baseUrl: '/tandom/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
