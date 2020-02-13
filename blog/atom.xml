@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tandomtv.github.io/tandom/blog</id>
-    <title>Tandom TV Blog</title>
+    <title> Blog</title>
     <updated>2017-10-24T06:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tandomtv.github.io/tandom/blog"/>
-    <subtitle>The best place to stay up-to-date with the latest Tandom TV news and events.</subtitle>
-    <logo>https://tandomtv.github.io/tandom/img/favicon.ico</logo>
-    <rights>Copyright © 2020 Your Name or Your Company Name</rights>
+    <subtitle>The best place to stay up-to-date with the latest  news and events.</subtitle>
+    <logo>https://tandomtv.github.io/tandom/img/tandom_white.png</logo>
+    <rights>Copyright © 2020 Quube Inc</rights>
     <entry>
         <title type="html"><![CDATA[New Version 1.0.0]]></title>
         <id>https://tandomtv.github.io/tandom/blog/2017/10/24/new-version-1.0.0.html</id>
