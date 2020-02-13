@@ -22,18 +22,19 @@ function Help(props) {
   const supportLinks = [
     {
       content: `Learn more using the [documentation on this site.](${docUrl(
-        'doc1.html',
+        'overview.html',
       )})`,
       title: 'Browse Docs',
     },
-    {
-      content: 'Ask questions about the documentation and project',
-      title: 'Join the community',
-    },
-    {
-      content: "Find out what's new with this project",
-      title: 'Stay up to date',
-    },
+    
+    // {
+    //   content: 'Ask questions about the documentation and project',
+    //   title: 'Join the community',
+    // },
+    // {
+    //   content: "Find out what's new with this project",
+    //   title: 'Stay up to date',
+    // },
   ];
 
   return (
@@ -43,8 +44,12 @@ function Help(props) {
           <header className="postHeader">
             <h1>Need help?</h1>
           </header>
-          <p>This project is maintained by a dedicated group of people.</p>
-          <GridBlock contents={supportLinks} layout="threeColumn" />
+          <p>
+            This project is maintained by a dedicated group of people at 
+              <a href="http://tandom.tv" target="_blank" rel="noreferrer noopener"> Tandom</a>.
+          </p>
+
+          {/*<GridBlock contents={supportLinks} layout="threeColumn" />*/}
         </div>
       </Container>
     </div>

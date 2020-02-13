@@ -1,8 +1,9 @@
 {
   "docs": {
-    "Docusaurus": ["doc1"],
-    "First Category": ["doc2"],
-    "Second Category": ["doc3"]
+    "Getting Started": ["overview"],
+    "Components": ["stat-components", "action-components"],
+    "Containers": ["overlay-containers"],
+    "Enhancers": ["audio-enhancers"]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]

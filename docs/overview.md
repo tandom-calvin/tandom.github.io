@@ -1,14 +1,12 @@
 ---
-id: doc1
-title: Latin-ish
-sidebar_label: Example Page
+id: overview
+title: Tandom Architecture
+sidebar_label: Overview
 ---
 
-Check the [documentation](https://docusaurus.io) for how to use Docusaurus.
+## Technology Stack
 
-## Lorem
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.
+![Technology Stack](assets/technology_stack.png "Technology Stack")
 
 ## Mauris In Code
 

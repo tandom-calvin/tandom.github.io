@@ -3,23 +3,29 @@
   "localized-strings": {
     "next": "Next",
     "previous": "Previous",
-    "tagline": "THE FRAMEWORK THAT POWERS LIVE CONTENT INTERACTIONS ON TV.",
+    "tagline": "Tandom makes it easy to develop and maintain Live Content Interactions across all devices",
     "docs": {
-      "doc1": {
-        "title": "Latin-ish",
-        "sidebar_label": "Example Page"
+      "action-components": {
+        "title": "Action Components"
       },
-      "doc2": {
-        "title": "document number 2"
-      },
-      "doc3": {
-        "title": "This is document number 3"
+      "audio-enhancers": {
+        "title": "Audio Enhancers"
       },
       "doc4": {
         "title": "Other Document"
       },
       "doc5": {
         "title": "Fifth Document"
+      },
+      "overlay-containers": {
+        "title": "Overlay Containers"
+      },
+      "overview": {
+        "title": "Tandom Architecture",
+        "sidebar_label": "Overview"
+      },
+      "stat-components": {
+        "title": "Game Stat Components"
       }
     },
     "links": {
@@ -28,9 +34,11 @@
       "Blog": "Blog"
     },
     "categories": {
-      "Docusaurus": "Docusaurus",
-      "First Category": "First Category",
-      "Second Category": "Second Category"
+      "Getting Started": "Getting Started",
+      "Components": "Components",
+      "Containers": "Containers",
+      "Enhancers": "Enhancers",
+      "First Category": "First Category"
     }
   },
   "pages-strings": {
