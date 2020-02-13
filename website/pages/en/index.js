@@ -96,7 +96,7 @@ class Index extends React.Component {
       <div
         className="productShowcaseSection paddingBottom"
         style={{textAlign: 'center'}}>
-        <h2>Watch your favorite streamers from Twitch, Youtube and Mixer all in screen</h2>
+        <h2>Watch your favorite streamers from Twitch, Youtube and Mixer all in one screen</h2>
         {/*<MarkdownBlock>These are features of this project</MarkdownBlock>*/}
       </div>
     );
