@@ -1,75 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tandomtv.github.io/tandom/blog</id>
-    <title> Blog</title>
-    <updated>2017-10-24T06:00:00.000Z</updated>
+    <title>THE LIVE CONTENT INTERACTIONS FRAMEWORK Blog</title>
+    <updated>1970-01-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tandomtv.github.io/tandom/blog"/>
-    <subtitle>The best place to stay up-to-date with the latest  news and events.</subtitle>
+    <subtitle>The best place to stay up-to-date with the latest THE LIVE CONTENT INTERACTIONS FRAMEWORK news and events.</subtitle>
     <logo>https://tandomtv.github.io/tandom/img/tandom_white.png</logo>
     <rights>Copyright © 2020 Quube Inc</rights>
     <entry>
-        <title type="html"><![CDATA[New Version 1.0.0]]></title>
-        <id>https://tandomtv.github.io/tandom/blog/2017/10/24/new-version-1.0.0.html</id>
-        <link href="https://tandomtv.github.io/tandom/blog/2017/10/24/new-version-1.0.0.html"/>
-        <updated>2017-10-24T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>This blog post will test file name parsing issues when periods are present.</p> ]]></summary>
+        <title type="html"><![CDATA[Tandom at CES 2020]]></title>
+        <id>https://tandomtv.github.io/tandom/blog/2020/1/24/tandom-ces-2020.html</id>
+        <link href="https://tandomtv.github.io/tandom/blog/2020/1/24/tandom-ces-2020.html"/>
+        <updated>1970-01-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>First time for Tandom to attend CES 2020 and demonstarted spectator interactivity on Television to select partners.</p> ]]></summary>
         <author>
-            <name>Eric Nakagawa</name>
+            <name>Calvin Shen</name>
             <email/>
-            <uri>http://twitter.com/ericnakagawa</uri>
+            <uri>http://www.linkedin.com/in/calvin-shen-a118144/</uri>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Adding RSS Support]]></title>
-        <id>https://tandomtv.github.io/tandom/blog/2017/09/26/adding-rss.html</id>
-        <link href="https://tandomtv.github.io/tandom/blog/2017/09/26/adding-rss.html"/>
-        <updated>2017-09-26T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>This is a test post.</p> <p>A whole bunch of other information.</p> ]]></summary>
+        <title type="html"><![CDATA[Interactivity on TV]]></title>
+        <id>https://tandomtv.github.io/tandom/blog/2019/12/11/interactivity-on-tv.html</id>
+        <link href="https://tandomtv.github.io/tandom/blog/2019/12/11/interactivity-on-tv.html"/>
+        <updated>2019-12-11T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>Television is in the center of most homes around the world. It has been and always will be the best device for family and friends to get together and enjoy a layback experience.</p> ]]></summary>
         <author>
-            <name>Eric Nakagawa</name>
+            <name>Calvin Shen</name>
             <email/>
-            <uri>http://twitter.com/ericnakagawa</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adding RSS Support - RSS Truncation Test]]></title>
-        <id>https://tandomtv.github.io/tandom/blog/2017/09/25/testing-rss.html</id>
-        <link href="https://tandomtv.github.io/tandom/blog/2017/09/25/testing-rss.html"/>
-        <updated>2017-09-25T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890</p>
-<p>This should be truncated.</p>
-]]></summary>
-        <author>
-            <name>Eric Nakagawa</name>
-            <email/>
-            <uri>http://twitter.com/ericnakagawa</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Blog Post]]></title>
-        <id>https://tandomtv.github.io/tandom/blog/2017/04/10/blog-post-two.html</id>
-        <link href="https://tandomtv.github.io/tandom/blog/2017/04/10/blog-post-two.html"/>
-        <updated>2017-04-10T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.</p>
-]]></summary>
-        <author>
-            <name>Blog Author</name>
-            <email/>
-            <uri>http://twitter.com/</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blog Title]]></title>
-        <id>https://tandomtv.github.io/tandom/blog/2016/03/11/blog-post.html</id>
-        <link href="https://tandomtv.github.io/tandom/blog/2016/03/11/blog-post.html"/>
-        <updated>2016-03-11T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.</p>
-]]></summary>
-        <author>
-            <name>Blog Author</name>
-            <email/>
-            <uri>http://twitter.com/</uri>
+            <uri>http://www.linkedin.com/in/calvin-shen-a118144/</uri>
         </author>
     </entry>
 </feed>
